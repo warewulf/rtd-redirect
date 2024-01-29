@@ -1,21 +1,5 @@
-.. _wwctl-server:
+===========================
+The documentation has moved
+===========================
 
-============
-wwctl server
-============
-
-This command will allow you to control the Warewulf daemon process.
-
-start
-~~~~~
-Start Warewulf server
-
--f, --foreground  Run daemon process in the foreground
-
-status
-~~~~~~
-Warewulf server status
-
-stop
-~~~~
-Stop Warewulf server
+Documentation for Warewulf is now available at https://warewulf.org

@@ -2,4 +2,4 @@
 The documentation has moved
 ===========================
 
-Documentation for Warewulf is now available at https://warewulf.hpcng.org
+Documentation for Warewulf is now available at https://warewulf.org

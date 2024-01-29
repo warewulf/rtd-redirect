@@ -1,5 +1,5 @@
-.. _about-security:
+===========================
+The documentation has moved
+===========================
 
-========
-Security
-========
+Documentation for Warewulf is now available at https://warewulf.org

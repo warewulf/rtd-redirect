@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Warewulf User Guide'
-copyright = '2021, Ctrl IQ, Inc'
-author = 'Ctrl IQ, Inc'
+copyright = '2024, The Warewulf Project'
+author = 'The Warewulf Project'
 
 # The full version, including alpha/beta/rc tags
 release = '4.0.0'

@@ -1,5 +1,5 @@
-.. _about-templating:
+===========================
+The documentation has moved
+===========================
 
-==========
-Templating
-==========
+Documentation for Warewulf is now available at https://warewulf.org

@@ -1,7 +1,5 @@
-.. _wwctl-ready:
+===========================
+The documentation has moved
+===========================
 
-===========
-wwctl ready
-===========
-
-Warewulf Status Check
+Documentation for Warewulf is now available at https://warewulf.org

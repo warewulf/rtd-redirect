@@ -1,5 +1,5 @@
-.. _prerequisites-hardware:
+===========================
+The documentation has moved
+===========================
 
-========
-Hardware
-========
+Documentation for Warewulf is now available at https://warewulf.org
